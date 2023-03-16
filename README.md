@@ -1,10 +1,12 @@
-# Hi! I am Tatiana Labchuk
-👋 I am full-stack QA at Alpha-bank.
+# Привет! Я - Татьяна Лабчук
+💼 Работаю full-stack QA в Альфа-банке (70% автотестов на java, 30% руками)
 
-I run a telegram channel for beginner QA-engineers and also I help them personally (I am a <a href ="https://getmentor.dev/mentor/tatiana-labchuk-929"> mentor</a>)
+⭐ веду телеграмм-канал с полезными ссылками по тестированию (<a href ="https://t.me/notes_about_QA">тык</a>)
+
+💃 В свободное от работы время менторю, жду тебя на <a href ="https://getmentor.dev/mentor/tatiana-labchuk-929"> getMentor</a> 
 
 ## Resume
-(in work)
+(loading...)
 
 ## Languages and tools
 ![Java](https://img.shields.io/badge/-Java-090909?style=flat-square&logo=java)
